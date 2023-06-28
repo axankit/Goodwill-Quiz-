@@ -1,6 +1,3 @@
-/*
-Mark2 project 
-*/
 
 console.log("   ");
 
